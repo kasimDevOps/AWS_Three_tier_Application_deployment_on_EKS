@@ -1,4 +1,4 @@
-tep 1: IAM Configuration
+Step 1: IAM Configuration
 Create a user eks-admin with AdministratorAccess.
 Generate Security Credentials: Access Key and Secret Access Key.
 
