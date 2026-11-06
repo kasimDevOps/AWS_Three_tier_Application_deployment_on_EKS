@@ -1,30 +1,12 @@
-# #AWS_Three_Tier_Application_Deployement
+# #Deploying_Three_Tier_Application_on_AWS_EKS
 
 ## Overview 
-The challenge involves deploying a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with deployment on AWS EKS. Participants are encouraged to deploy the application, add creative enhancements, and submit a Pull Request (PR). Merged PRs will earn exciting prizes!
-
+The challenge involves deploying a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with deployment on AWS EKS. 
 
 ## Challenge Steps
 - [Application Code](#application-code)
-- [Jenkins Pipeline Code](#jenkins-pipeline-code)
-- [Jenkins Server Terraform](#jenkins-server-terraform)
 - [Kubernetes Manifests Files](#kubernetes-manifests-files)
 - [Project Details](#project-details)
-
-
-## Project Details
-🛠️ **Tools Explored:** 
-- AWS CLI for AWS infrastructure
-- Jenkins, Sonarqube, Terraform, Kubectl, and more for CI/CD setup
-- Helm, Prometheus, and Grafana for Monitoring
-
-🚢 **High-Level Overview:**
-- IAM User setup & Terraform magic on AWS
-- Jenkins deployment with AWS integration
-- EKS Cluster creation & Load Balancer configuration
-- Private ECR repositories for secure image management
-- Helm charts for efficient monitoring setup
-
 
 
 ### Step 1: IAM Configuration
